@@ -3,7 +3,7 @@ import React from 'react'
 function NavNotice() {
   return (
     <div>
-      Nav Notice
+      Nav Notice2
     </div>
   )
 }
